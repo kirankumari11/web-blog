@@ -25,3 +25,6 @@ A high-performance, 3-page static website designed specifically for tech blogger
 1. Clone the repository: `git clone https://github.com/yourusername/repo-name.git`
 2. Open `index.html` in your browser.
 3. Replace the placeholder text in the `<head>` with your own keywords!
+
+## Live link
+https://kirankumari11.github.io/web-blog/
